@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 
 import collections
+from collections.abc import MutableSequence
+
 import json
 import re
 
